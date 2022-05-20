@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaetiongFinalsIPT", "BaetiongFinalsIPT\BaetiongFinalsIPT.csproj", "{43FB282C-0E60-43A2-916C-1E69399A7D30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43FB282C-0E60-43A2-916C-1E69399A7D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FB282C-0E60-43A2-916C-1E69399A7D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FB282C-0E60-43A2-916C-1E69399A7D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FB282C-0E60-43A2-916C-1E69399A7D30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB3404F6-439F-4204-9FDD-1D0372604C99}
+	EndGlobalSection
+EndGlobal
